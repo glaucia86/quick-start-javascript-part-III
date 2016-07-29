@@ -4,7 +4,7 @@ Continuação do estudo pessoal e desenvolvimento de exercícios sobre os princi
 
 Exercícios realizados durante o estudo com os códigos de cada nível.
 
-##### 1) [Objetos] ()
+##### 1) [Objetos] (https://github.com/glaucia86/quick-start-javascript-part-III/tree/master/Exerc%C3%ADcio%20-%202)
 
 ##### 3) [] ()
 
