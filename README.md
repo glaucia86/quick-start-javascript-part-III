@@ -10,9 +10,9 @@ Exercícios realizados durante o estudo com os códigos de cada nível.
 
 ##### 4) [Objetos Literais e Funções Construtoras] (https://github.com/glaucia86/quick-start-javascript-part-III/tree/master/Exerc%C3%ADcio%20-%204)
 
-##### 5) [] ()
+##### 5) [This e Objeto Global] (https://github.com/glaucia86/quick-start-javascript-part-III/tree/master/Exerc%C3%ADcio%20-%205)
 
-##### 6) [] ()
+##### 6) [Escopos Locais e Globais] (https://github.com/glaucia86/quick-start-javascript-part-III/tree/master/Exerc%C3%ADcio%20-%206)
 
 ##### 7) [] ()
 
