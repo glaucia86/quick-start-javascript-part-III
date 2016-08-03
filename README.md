@@ -18,5 +18,5 @@ Exercícios realizados durante o estudo com os códigos de cada nível.
 
 ##### 8) [Convenções e Usando o JsLint] ()
 
-##### 9) [Revisando o Jogo] ()
+##### 9) [Revisando o Jogo] (https://github.com/glaucia86/quick-start-javascript-part-III/tree/master/Exerc%C3%ADcio%20-%209)
 
