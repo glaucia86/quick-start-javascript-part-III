@@ -14,9 +14,9 @@ Exercícios realizados durante o estudo com os códigos de cada nível.
 
 ##### 6) [Escopos Locais e Globais] (https://github.com/glaucia86/quick-start-javascript-part-III/tree/master/Exerc%C3%ADcio%20-%206)
 
-##### 7) [] ()
+##### 7) [Entendendo os Escopos] (https://github.com/glaucia86/quick-start-javascript-part-III/commit/44f2d1bce42ffb396307375c9b2c2b637c644234)
 
-##### 8) [] ()
+##### 8) [Convenções e Usando o JsLint] ()
 
-##### 9) [] ()
+##### 9) [Revisando o Jogo] ()
 
